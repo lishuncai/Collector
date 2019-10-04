@@ -14,6 +14,9 @@
 
 - vue的vue组件（个人表示很喜欢）
 
+> [Ant Design](https://ant.design/index-cn)
+
+- react的组件库
 
 > [vant](https://youzan.github.io/vant/#/zh-CN/intro)
 
@@ -35,3 +38,12 @@
 
 - 特点：点击产生涟漪效果； 响应式。
 
+### 手势库
+
+> [hammer.js](https://hammerjs.github.io/)
+
+### 动画库
+
+> [Animation.css](https://daneden.github.io/animate.css/)
+
+> [anime.js](https://animejs.com/)
