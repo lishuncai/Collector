@@ -47,3 +47,7 @@
 > [Animation.css](https://daneden.github.io/animate.css/)
 
 > [anime.js](https://animejs.com/)
+
+### 图片编辑插件
+
+> [cropperjs](https://github.com/fengyuanchen/cropperjs)
