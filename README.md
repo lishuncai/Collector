@@ -51,3 +51,5 @@
 ### 图片编辑插件
 
 > [cropperjs](https://github.com/fengyuanchen/cropperjs)
+
+> [vue-cropper]
