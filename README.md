@@ -52,4 +52,8 @@
 
 > [cropperjs](https://github.com/fengyuanchen/cropperjs)
 
-> [vue-cropper]
+> vue-cropper
+
+### 时间格式化插件
+
+> [momentjs](http://momentjs.cn/)
