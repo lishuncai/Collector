@@ -51,6 +51,10 @@
 
 > [Animation.css](https://daneden.github.io/animate.css/)
 
+> [wow.js](https://www.delac.io/wow/)
+
+- 页面滚动时加载动画效果的js库
+
 > [anime.js](https://animejs.com/)
 
 ### 图片编辑插件
