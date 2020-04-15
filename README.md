@@ -17,6 +17,8 @@
 
 > [Vuetify](https://vuetifyjs.com/zh-Hans/)
 
+> [muse-ui](https://muse-ui.org/)
+
 - vue的vue组件（个人表示很喜欢）
 
 > [Ant Design](https://ant.design/index-cn)
@@ -37,15 +39,15 @@
 
 - *张鑫旭大佬安利
 
-> [MDUI](https://www.mdui.org/)
-
-- MDUI 是一套用于开发 Material Design 网页的前端框架。
-
-- 特点：点击产生涟漪效果； 响应式。
-
 ### 手势库
 
 > [hammer.js](https://hammerjs.github.io/)
+
+### 页面引导插件
+
+> [intro.js] (https://www.dowebok.com/demo/2013/35/)
+
+> [vue-introjs] (https://www.npmjs.com/package/vue-introjs)
 
 ### 动画库
 
@@ -72,3 +74,9 @@
 
 ### turn/stun服务测试平台
 > [trickle-ice](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/)
+
+### 浏览器实时流支持插件
+
+- 支持.m3u8（hls）格式的流
+
+> [hls.js] (https://www.npmjs.com/package/hls.js/v/canary)
