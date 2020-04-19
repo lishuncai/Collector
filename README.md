@@ -65,6 +65,10 @@
 
 > vue-cropper
 
+### 视频首页生成插件
+
+> [video-capture](https://www.npmjs.com/package/video-capture?activeTab=readme)
+
 ### 时间格式化插件
 
 > [momentjs](http://momentjs.cn/)
